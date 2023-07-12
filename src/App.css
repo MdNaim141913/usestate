@@ -1,0 +1,22 @@
+.wrapper{
+  border: 2px solid #780fe2;
+  width: 400px;
+  height: 450px;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 12px 10px #780fe2ed;
+}
+
+.wrapper p{
+  font-size: 60px;
+  text-align: center;
+  font-weight: bold;
+  color: #780fe2ed;
+}
+
+.btn-container{
+  display: flex;
+  padding-top: 100px;
+  justify-content: space-around;
+  gap: 10px;
+}
